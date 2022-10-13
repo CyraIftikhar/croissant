@@ -1,0 +1,15 @@
+h1,
+p,
+.links {
+  text-align: center;
+  display: block;
+}
+
+h1 {
+  color: purple;
+  text-decoration: underline;
+}
+
+a {
+  colour: green;
+}
